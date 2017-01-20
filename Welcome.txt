@@ -1,3 +1,7 @@
 print("welcome")
+<<<<<<< HEAD
 print("welcome Our site")
 print("welcome here")
+=======
+print("welcome Our site")
+>>>>>>> master
