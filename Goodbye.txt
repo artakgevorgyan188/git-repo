@@ -1,6 +1,0 @@
-print("Goodbye world")
-print("Goodbye everybody")
-print("Goodbye all")
-print("Goodbye finish")
-print("Goodbye 1")
-print("Goodbye finished")
